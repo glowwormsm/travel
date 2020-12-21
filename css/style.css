@@ -253,7 +253,7 @@ img {
 .benefits__cards {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-column-gap: 55px;
+  column-gap: 55px;
   padding: 0 100px;
 }
 
@@ -598,7 +598,7 @@ img {
   }
   .benefits__cards {
     padding: 0 15px;
-    grid-column-gap: 35px;
+    column-gap: 35px;
   }
 
   .benefits__card {
@@ -619,7 +619,7 @@ img {
     box-shadow: none;
   }
   .tours__tour {
-    grid-column-gap: 35px;
+    column-gap: 35px;
   }
   .tour__info {
     padding-left: 0;
