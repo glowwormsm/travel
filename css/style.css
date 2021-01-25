@@ -238,7 +238,7 @@ img {
 
 .benefits__title {
   width: 100%;
-  padding: 93px 100px 88px 100px;
+  padding: 52px 100px 88px 100px;
   font-weight: 500;
   font-size: 35px;
   line-height: 42px;
@@ -248,6 +248,7 @@ img {
   left: 0;
   transform: translateY(-100%);
   background-color: #ffffff;
+  
 }
 
 .benefits__cards {
